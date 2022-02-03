@@ -1,3 +1,2 @@
 *** Test Cases ***,${FirstName},${LastName},${UserName},${Password},${Customer},${Role},${Email},${telephone}
 User1,TeladocUser FirstName,LastNameTeladoc,TeladocUserOne,Password@1014,15,2,NameRam@gmail.com,1234567890
-User2,TeladocUser FirstName1,LastNameTeladoc,TeladocUserOne,Password@1014,15,2,NameRam@gmail.com,1234567890

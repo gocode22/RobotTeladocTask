@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 4.1.2 (Python 3.10.1 on win32)" generated="20220131 22:22:15.817" rpa="false" schemaversion="2">
+<robot generator="Robot 4.1.2 (Python 3.10.1 on win32)" generated="20220203 12:54:08.160" rpa="false" schemaversion="2">
 <suite id="s1" name="Tests" source="C:\Users\vaith\PycharmProjects\RobotTeladocTask\tests">
 <suite id="s1-s1" name="testLandingPage" source="C:\Users\vaith\PycharmProjects\RobotTeladocTask\tests\testLandingPage.robot">
 <test id="s1-s1-t1" name="User1">
@@ -8,94 +8,125 @@
 <arg>${browser_name}</arg>
 <arg>executable_path=/Users/vaith/chromeDriver/geckodriver</arg>
 <doc>Creates an instance of Selenium WebDriver.</doc>
-<msg timestamp="20220131 22:22:16.099" level="INFO">Creating an instance of the Firefox WebDriver.</msg>
-<status status="PASS" starttime="20220131 22:22:16.098" endtime="20220131 22:22:22.419"/>
+<msg timestamp="20220203 12:54:08.416" level="INFO">Creating an instance of the Firefox WebDriver.</msg>
+<status status="PASS" starttime="20220203 12:54:08.416" endtime="20220203 12:54:14.283"/>
 </kw>
 <kw name="Go To" library="SeleniumLibrary">
 <arg>${url}</arg>
 <doc>Navigates the current browser window to the provided ``url``.</doc>
-<msg timestamp="20220131 22:22:22.420" level="INFO">Opening url 'http://www.way2automation.com/angularjs-protractor/webtables/'</msg>
-<status status="PASS" starttime="20220131 22:22:22.419" endtime="20220131 22:22:26.290"/>
+<msg timestamp="20220203 12:54:14.284" level="INFO">Opening url 'http://www.way2automation.com/angularjs-protractor/webtables/'</msg>
+<status status="PASS" starttime="20220203 12:54:14.283" endtime="20220203 12:54:17.380"/>
 </kw>
-<status status="PASS" starttime="20220131 22:22:16.098" endtime="20220131 22:22:26.290"/>
+<status status="PASS" starttime="20220203 12:54:08.416" endtime="20220203 12:54:17.380"/>
 </kw>
 <kw name="Enter the new user details form">
 <arg>TeladocUser FirstName</arg>
+<arg>LastNameTeladoc</arg>
+<arg>TeladocUserOne</arg>
+<arg>Password@1014</arg>
+<arg>15</arg>
+<arg>2</arg>
+<arg>NameRam@gmail.com</arg>
+<arg>1234567890</arg>
 <kw name="Click on the Add User button and Enter new user details" library="LandingPage">
 <arg>${FirstName}</arg>
+<arg>${LastName}</arg>
+<arg>${UserName}</arg>
+<arg>${Password}</arg>
+<arg>${Customer}</arg>
+<arg>${Role}</arg>
+<arg>${Email}</arg>
+<arg>${telephone}</arg>
 <kw name="Click Button" library="SeleniumLibrary">
 <arg>${add_user_btn}</arg>
 <doc>Clicks the button identified by ``locator``.</doc>
-<msg timestamp="20220131 22:22:26.292" level="INFO">Clicking button '//button[@type='add']'.</msg>
-<status status="PASS" starttime="20220131 22:22:26.291" endtime="20220131 22:22:26.564"/>
+<msg timestamp="20220203 12:54:17.382" level="INFO">Clicking button '//button[@type='add']'.</msg>
+<status status="PASS" starttime="20220203 12:54:17.382" endtime="20220203 12:54:17.656"/>
 </kw>
 <kw name="Input Text" library="SeleniumLibrary">
-<arg>${ffirstname}</arg>
+<arg>${firstname_textbox}</arg>
 <arg>${FirstName}</arg>
 <doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
-<msg timestamp="20220131 22:22:26.564" level="INFO">Typing text 'TeladocUser FirstName' into text field 'css:input[name='FirstName']'.</msg>
-<status status="PASS" starttime="20220131 22:22:26.564" endtime="20220131 22:22:26.629"/>
+<msg timestamp="20220203 12:54:17.657" level="INFO">Typing text 'TeladocUser FirstName' into text field 'css:input[name='FirstName']'.</msg>
+<status status="PASS" starttime="20220203 12:54:17.656" endtime="20220203 12:54:17.709"/>
 </kw>
-<status status="PASS" starttime="20220131 22:22:26.291" endtime="20220131 22:22:26.630"/>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>${lastname_txtbox}</arg>
+<arg>${LastName}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20220203 12:54:17.710" level="INFO">Typing text 'LastNameTeladoc' into text field 'css:input[name='LastName']'.</msg>
+<status status="PASS" starttime="20220203 12:54:17.709" endtime="20220203 12:54:17.739"/>
 </kw>
-<status status="PASS" starttime="20220131 22:22:26.290" endtime="20220131 22:22:26.630"/>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>${username_txtbox}</arg>
+<arg>${UserName}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20220203 12:54:17.740" level="INFO">Typing text 'TeladocUserOne' into text field 'css:input[name='UserName']'.</msg>
+<status status="PASS" starttime="20220203 12:54:17.739" endtime="20220203 12:54:17.778"/>
 </kw>
-<status status="PASS" starttime="20220131 22:22:16.097" endtime="20220131 22:22:26.630"/>
-</test>
-<test id="s1-s1-t2" name="User2">
-<kw name="open the browser with based on user input" library="Generic" type="SETUP">
-<kw name="Create Webdriver" library="SeleniumLibrary">
-<arg>${browser_name}</arg>
-<arg>executable_path=/Users/vaith/chromeDriver/geckodriver</arg>
-<doc>Creates an instance of Selenium WebDriver.</doc>
-<msg timestamp="20220131 22:22:26.633" level="INFO">Creating an instance of the Firefox WebDriver.</msg>
-<status status="PASS" starttime="20220131 22:22:26.632" endtime="20220131 22:22:32.477"/>
+<kw name="Input Password" library="SeleniumLibrary">
+<arg>${password_textbox}</arg>
+<arg>${Password}</arg>
+<doc>Types the given password into the text field identified by ``locator``.</doc>
+<msg timestamp="20220203 12:54:17.779" level="INFO">Typing password into text field 'css:input[name='Password']'.</msg>
+<msg timestamp="20220203 12:54:17.792" level="INFO">Temporally setting log level to: NONE</msg>
+<msg timestamp="20220203 12:54:17.819" level="INFO">Log level changed from NONE to INFO.</msg>
+<status status="PASS" starttime="20220203 12:54:17.779" endtime="20220203 12:54:17.819"/>
 </kw>
-<kw name="Go To" library="SeleniumLibrary">
-<arg>${url}</arg>
-<doc>Navigates the current browser window to the provided ``url``.</doc>
-<msg timestamp="20220131 22:22:32.478" level="INFO">Opening url 'http://www.way2automation.com/angularjs-protractor/webtables/'</msg>
-<status status="PASS" starttime="20220131 22:22:32.477" endtime="20220131 22:22:35.205"/>
+<kw name="Select Radio Button" library="SeleniumLibrary">
+<arg>optionsRadios</arg>
+<arg>${Customer}</arg>
+<doc>Sets the radio button group ``group_name`` to ``value``.</doc>
+<msg timestamp="20220203 12:54:17.819" level="INFO">Selecting '15' from radio button 'optionsRadios'.</msg>
+<status status="PASS" starttime="20220203 12:54:17.819" endtime="20220203 12:54:18.044"/>
 </kw>
-<status status="PASS" starttime="20220131 22:22:26.632" endtime="20220131 22:22:35.205"/>
+<kw name="Select From List By Value" library="SeleniumLibrary">
+<arg>${role_dropdown}</arg>
+<arg>${Role}</arg>
+<doc>Selects options from selection list ``locator`` by ``values``.</doc>
+<msg timestamp="20220203 12:54:18.045" level="INFO">Selecting options from selection list 'css:select[name='RoleId']' by value 2.</msg>
+<status status="PASS" starttime="20220203 12:54:18.044" endtime="20220203 12:54:18.276"/>
 </kw>
-<kw name="Enter the new user details form">
-<arg>TeladocUser FirstName1</arg>
-<kw name="Click on the Add User button and Enter new user details" library="LandingPage">
-<arg>${FirstName}</arg>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>${email_textbox}</arg>
+<arg>${Email}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20220203 12:54:18.277" level="INFO">Typing text 'NameRam@gmail.com' into text field 'css:input[name='Email']'.</msg>
+<status status="PASS" starttime="20220203 12:54:18.276" endtime="20220203 12:54:18.309"/>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>${cellphone_textbox}</arg>
+<arg>${telephone}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20220203 12:54:18.310" level="INFO">Typing text '1234567890' into text field 'css:input[name='Mobilephone']'.</msg>
+<status status="PASS" starttime="20220203 12:54:18.309" endtime="20220203 12:54:18.344"/>
+</kw>
 <kw name="Click Button" library="SeleniumLibrary">
-<arg>${add_user_btn}</arg>
+<arg>css:button.btn.btn-success</arg>
 <doc>Clicks the button identified by ``locator``.</doc>
-<msg timestamp="20220131 22:22:35.206" level="INFO">Clicking button '//button[@type='add']'.</msg>
-<status status="PASS" starttime="20220131 22:22:35.206" endtime="20220131 22:22:35.484"/>
+<msg timestamp="20220203 12:54:18.345" level="INFO">Clicking button 'css:button.btn.btn-success'.</msg>
+<status status="PASS" starttime="20220203 12:54:18.345" endtime="20220203 12:54:18.581"/>
 </kw>
-<kw name="Input Text" library="SeleniumLibrary">
-<arg>${ffirstname}</arg>
-<arg>${FirstName}</arg>
-<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
-<msg timestamp="20220131 22:22:35.485" level="INFO">Typing text 'TeladocUser FirstName1' into text field 'css:input[name='FirstName']'.</msg>
-<status status="PASS" starttime="20220131 22:22:35.484" endtime="20220131 22:22:35.547"/>
+<status status="PASS" starttime="20220203 12:54:17.381" endtime="20220203 12:54:18.581"/>
 </kw>
-<status status="PASS" starttime="20220131 22:22:35.205" endtime="20220131 22:22:35.548"/>
+<status status="PASS" starttime="20220203 12:54:17.381" endtime="20220203 12:54:18.582"/>
 </kw>
-<status status="PASS" starttime="20220131 22:22:35.205" endtime="20220131 22:22:35.548"/>
-</kw>
-<status status="PASS" starttime="20220131 22:22:26.631" endtime="20220131 22:22:35.548"/>
+<status status="PASS" starttime="20220203 12:54:08.415" endtime="20220203 12:54:18.582"/>
 </test>
 <doc>To validate the login form</doc>
-<status status="PASS" starttime="20220131 22:22:15.850" endtime="20220131 22:22:35.549"/>
+<status status="PASS" starttime="20220203 12:54:08.184" endtime="20220203 12:54:18.584"/>
 </suite>
-<status status="PASS" starttime="20220131 22:22:15.817" endtime="20220131 22:22:35.553"/>
+<status status="PASS" starttime="20220203 12:54:08.163" endtime="20220203 12:54:18.586"/>
 </suite>
 <statistics>
 <total>
-<stat pass="2" fail="0" skip="0">All Tests</stat>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
 </total>
 <tag>
 </tag>
 <suite>
-<stat pass="2" fail="0" skip="0" id="s1" name="Tests">Tests</stat>
-<stat pass="2" fail="0" skip="0" id="s1-s1" name="testLandingPage">Tests.testLandingPage</stat>
+<stat pass="1" fail="0" skip="0" id="s1" name="Tests">Tests</stat>
+<stat pass="1" fail="0" skip="0" id="s1-s1" name="testLandingPage">Tests.testLandingPage</stat>
 </suite>
 </statistics>
 <errors>

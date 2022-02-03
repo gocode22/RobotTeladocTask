@@ -465,3 +465,318 @@ DevTools listening on ws://localhost:49641/devtools/browser/f74f5ccb-f297-4f6f-b
 JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 1643689358756	Marionette	INFO	Stopped listening on port 49649
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643820060363	geckodriver	INFO	Listening on 127.0.0.1:63068
+1643820063421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63069" "-no-remote" "-profile" "C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileztsvHk"
+1643820063995	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileztsvHk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63069/devtools/browser/12a37b47-ee0d-4e27-b365-916c241ea174
+1643820066331	Marionette	INFO	Listening on port 63074
+1643820066648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643820174510	Marionette	INFO	Stopped listening on port 63074
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofilessEFJM"
+1643820073883	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofilessEFJM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63142/devtools/browser/838836b4-fa74-494b-8ff5-24546534212b
+1643820076045	Marionette	INFO	Listening on port 63150
+1643820076246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643820173379	Marionette	INFO	Stopped listening on port 63150
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643910105182	geckodriver	INFO	Listening on 127.0.0.1:62285
+1643910108264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62286" "-no-remote" "-profile" "C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofilekPjVtS"
+1643910108606	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofilekPjVtS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62286/devtools/browser/d3fca8d3-b3af-4e8c-9389-83fd0254178b
+1643910110733	Marionette	INFO	Listening on port 62294
+1643910110952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643910136910	Marionette	INFO	Stopped listening on port 62294
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62362" "-no-remote" "-profile" "C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofilepcGmVM"
+1643910118015	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofilepcGmVM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62362/devtools/browser/d2d9e0b2-5ab2-4964-9059-547230841cd6
+1643910120380	Marionette	INFO	Listening on port 62372
+1643910120857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643910136150	Marionette	INFO	Stopped listening on port 62372
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643910176639	geckodriver	INFO	Listening on 127.0.0.1:62447
+1643910179702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62448" "-no-remote" "-profile" "C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileQlUEG4"
+1643910180052	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileQlUEG4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62448/devtools/browser/4e049be3-cbb8-4315-9b47-2cc83f47fe91
+1643910182204	Marionette	INFO	Listening on port 62453
+1643910182381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643910534970	Marionette	INFO	Stopped listening on port 62453
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofileDMRFV5"
+1643910188832	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileDMRFV5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62522/devtools/browser/c4cacba4-fe3b-4fc2-9442-7c9aa084f817
+1643910191009	Marionette	INFO	Listening on port 62529
+1643910191182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643910224245	Marionette	INFO	Stopped listening on port 62529
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643910467741	geckodriver	INFO	Listening on 127.0.0.1:62630
+1643910470815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62631" "-no-remote" "-profile" "C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofilesLDvrn"
+1643910471151	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofilesLDvrn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62631/devtools/browser/e87b4171-864a-49f5-ab94-bd146e6a5b64
+1643910473292	Marionette	INFO	Listening on port 62637
+1643910473505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643910533304	Marionette	INFO	Stopped listening on port 62637
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofileSg5AX9"
+1643910480748	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileSg5AX9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62707/devtools/browser/06394d9d-1c32-49de-8f18-13f5d2911d3b
+1643910482926	Marionette	INFO	Listening on port 62712
+1643910483084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643910530994	Marionette	INFO	Stopped listening on port 62712
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643910805911	geckodriver	INFO	Listening on 127.0.0.1:62952
+1643910808981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62953" "-no-remote" "-profile" "C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileUnBcm1"
+1643910809321	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileUnBcm1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62953/devtools/browser/f2421758-7a0f-4c65-bf4b-6402c626784f
+1643910811482	Marionette	INFO	Listening on port 62958
+1643910811679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643910832426	Marionette	INFO	Stopped listening on port 62958
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63031" "-no-remote" "-profile" "C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileKHvrDs"
+1643910818316	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileKHvrDs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63031/devtools/browser/d8284d2b-7a9f-4bfa-adc3-3da2c98e928e
+1643910820649	Marionette	INFO	Listening on port 63038
+1643910820674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643910830097	Marionette	INFO	Stopped listening on port 63038
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643913007962	geckodriver	INFO	Listening on 127.0.0.1:63391
+1643913011046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63392" "-no-remote" "-profile" "C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofiletCKYTj"
+1643913011396	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofiletCKYTj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63392/devtools/browser/56862d43-052c-4cf1-98fd-e0717071b57a
+1643913013481	Marionette	INFO	Listening on port 63397
+1643913013723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643913191593	Marionette	INFO	Stopped listening on port 63397
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofileeibKSO"
+1643913021376	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileeibKSO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63465/devtools/browser/0094c15f-1c20-4c77-9dd7-c7b3acadfeec
+1643913023729	Marionette	INFO	Listening on port 63472
+1643913024222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643913190716	Marionette	INFO	Stopped listening on port 63472
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofile0QH8ME"
+1643913050827	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofile0QH8ME\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63548/devtools/browser/36d51acb-1d32-4fe0-bf2b-b23bcb8c9871
+1643913052874	Marionette	INFO	Listening on port 63553
+1643913053179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643913189915	Marionette	INFO	Stopped listening on port 63553
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofileDiYnKL"
+1643913059079	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileDiYnKL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63620/devtools/browser/024b4a79-b4ea-4a5d-ba27-689774d56da9
+1643913061606	Marionette	INFO	Listening on port 63627
+1643913061939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643913188852	Marionette	INFO	Stopped listening on port 63627
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63715" "-no-remote" "-profile" "C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileYfSHvI"
+1643913158522	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileYfSHvI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63715/devtools/browser/7d802ffa-209d-4b86-9d68-67c3c89337ec
+1643913160740	Marionette	INFO	Listening on port 63720
+1643913160858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643913187642	Marionette	INFO	Stopped listening on port 63720
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63793" "-no-remote" "-profile" "C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileU55Gz1"
+1643913168095	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileU55Gz1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63793/devtools/browser/5a8ea64f-caac-4238-94b1-1277679259cd
+1643913170525	Marionette	INFO	Listening on port 63798
+1643913170950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643913185600	Marionette	INFO	Stopped listening on port 63798
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643913359585	geckodriver	INFO	Listening on 127.0.0.1:63890
+1643913362660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63891" "-no-remote" "-profile" "C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileOGpd5x"
+1643913362999	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileOGpd5x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63891/devtools/browser/010eb59d-f572-44f5-a82d-2c6a14d90da2
+1643913365315	Marionette	INFO	Listening on port 63896
+1643913365350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643913387635	Marionette	INFO	Stopped listening on port 63896
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofileGfR5b9"
+1643913373170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileGfR5b9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63965/devtools/browser/30e7ca15-0466-490d-9831-ed85db7384a7
+1643913375226	Marionette	INFO	Listening on port 63973
+1643913375448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643913385490	Marionette	INFO	Stopped listening on port 63973
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643913459701	geckodriver	INFO	Listening on 127.0.0.1:64060
+1643913462771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64061" "-no-remote" "-profile" "C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofiley3wNJi"
+1643913463104	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofiley3wNJi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64061/devtools/browser/82df508e-6bf9-419c-ba98-5b3da4d8b2ea
+1643913465266	Marionette	INFO	Listening on port 64066
+1643913465448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643913489037	Marionette	INFO	Stopped listening on port 64066
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofileu4EEER"
+1643913472467	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileu4EEER\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64137/devtools/browser/1e2bf180-a7a0-47c4-bfbb-92bb49a7a9d0
+1643913474543	Marionette	INFO	Listening on port 64143
+1643913474819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643913486756	Marionette	INFO	Stopped listening on port 64143
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643913493138	geckodriver	INFO	Listening on 127.0.0.1:64218
+1643913496221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64219" "-no-remote" "-profile" "C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofile54gLQV"
+1643913496577	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofile54gLQV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64219/devtools/browser/3cc7a50d-37c0-43db-bf00-f490b1cd279a
+1643913499008	Marionette	INFO	Listening on port 64224
+1643913499417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643913569997	Marionette	INFO	Stopped listening on port 64224
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofilegmnhvs"
+1643913508204	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofilegmnhvs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64297/devtools/browser/538a9bce-551b-4460-84dd-dba1b6048807
+1643913510576	Marionette	INFO	Listening on port 64302
+1643913511063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643913572154	Marionette	INFO	Stopped listening on port 64302
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643913790530	geckodriver	INFO	Listening on 127.0.0.1:64426
+1643913793597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64427" "-no-remote" "-profile" "C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileKpGzb5"
+1643913793946	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileKpGzb5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64427/devtools/browser/3dfda567-f881-4253-8481-9c5f882560dd
+1643913796138	Marionette	INFO	Listening on port 64432
+1643913796281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643913804183	Marionette	INFO	Stopped listening on port 64432
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failu1643913804264	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileaJjsA2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64504/devtools/browser/1fd50cf6-4233-47ce-818b-41cacd6117a3
+1643913806843	Marionette	INFO	Listening on port 64510
+1643913807019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643913813394	Marionette	INFO	Stopped listening on port 64510
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643913840180	geckodriver	INFO	Listening on 127.0.0.1:64582
+1643913843252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64583" "-no-remote" "-profile" "C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileZBk2PI"
+1643913843579	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileZBk2PI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64583/devtools/browser/615a090b-5aba-4ace-a3ee-d6fdecf24283
+1643913845737	Marionette	INFO	Listening on port 64588
+1643913845955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643913856037	Marionette	INFO	Stopped listening on port 64588
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643914070281	geckodriver	INFO	Listening on 127.0.0.1:64681
+1643914073356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64682" "-no-remote" "-profile" "C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileH8DONr"
+1643914073693	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofileH8DONr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64682/devtools/browser/3c418655-d83d-4dc5-bbb5-0b47c2419106
+1643914075912	Marionette	INFO	Listening on port 64687
+1643914076042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643914240966	Marionette	INFO	Stopped listening on port 64687
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643914304316	geckodriver	INFO	Listening on 127.0.0.1:64792
+1643914307411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64793" "-no-remote" "-profile" "C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofile6wtzFH"
+1643914307781	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vaith\\AppData\\Local\\Temp\\rust_mozprofile6wtzFH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64793/devtools/browser/b0131e5d-742a-4330-b79e-050af580a86a
+1643914309909	Marionette	INFO	Listening on port 64798
+1643914310097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.angularjs.org/1.2.0rc1/angular.min.js, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1643914394583	Marionette	INFO	Stopped listening on port 64798
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

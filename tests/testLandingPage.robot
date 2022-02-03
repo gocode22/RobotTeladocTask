@@ -15,13 +15,13 @@ Test Template   Enter the new user details form
 
 *** Test Cases ***
 # default data can be given below and it will be used for execution incase if the data file did not open
-Enter the new user details      ${FirstName}     xyc
+Enter the new user details      ${FirstName}     ${LastName}        ${UserName}     ${Password}     ${Customer}     ${Role}     ${Email}       ${telephone}     TeladocUserFirstName        LastNameTeladoc     TeladocUserOne      Password@1014       15      2       NameRam@gmail.com       1234567890
 
 
 *** Keywords ***
 Enter the new user details form
-        [Arguments]     ${FirstName}
-        LandingPage.Click on the Add User button and Enter new user details     ${FirstName}
+        [Arguments]     ${FirstName}    ${LastName}        ${UserName}     ${Password}     ${Customer}      ${Role}     ${Email}       ${telephone}
+        LandingPage.Click on the Add User button and Enter new user details     ${FirstName}    ${LastName}      ${UserName}     ${Password}     ${Customer}     ${Role}     ${Email}       ${telephone}
 
 
 
